@@ -1,0 +1,7 @@
+[var]
+id = "A2378957"
+date1 = "{now:%Y%m%d}"
+
+[template]
+"情数演習Ⅰ" = "{id}-{授業日:MMDD}"
+sample = "{id}-{date1}"
